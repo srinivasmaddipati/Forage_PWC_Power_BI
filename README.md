@@ -27,5 +27,5 @@ This Power BI project aims to analyze and visualize key call center metrics to i
     -   Visualizes agent efficiency by comparing **Average Handle Time (AHT)** and the **number of calls answered**.
     -   Categorizes agents into performance quadrants (e.g., High AHT & Low Calls vs. Low AHT & High Calls).
     -   Helps in identifying top-performing agents and those needing training.
-    -   ![image](https://github.com/user-attachments/assets/09346e7b-888d-41ba-8c22-0674caec4756)
+[image](https://github.com/user-attachments/assets/09346e7b-888d-41ba-8c22-0674caec4756)
 
