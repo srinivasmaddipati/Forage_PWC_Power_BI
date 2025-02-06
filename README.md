@@ -1,6 +1,6 @@
 # PWC-Power-BI-Job-Simulation
 
-## Call Center Trends
+## 1. Call Center Trends
 
 This Power BI project aims to analyze and visualize key call center metrics to improve customer satisfaction, optimize agent performance, and enhance operational efficiency. The interactive dashboard provides insights into customer interactions, call response times, and agent productivity, enabling data-driven decision-making.
 
