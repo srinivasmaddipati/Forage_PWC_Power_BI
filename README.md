@@ -63,7 +63,29 @@ This Power BI report provides an in-depth analysis of customer churn by examinin
 ![image](https://github.com/user-attachments/assets/8932bd4c-1383-4739-b169-cffca3dfe4e8)
 
 
-## 3. 
+## 3. Workforce Diversity
 
+This Power BI report provides a **comprehensive workforce analysis** by examining gender distribution, employee turnover, promotions, hiring trends, and performance ratings. The insights help organizations track diversity, assess career progression equity, and improve retention strategies.
 
+#### **Key Insights & Metrics:**
 
+1.  **Workforce Demographics**
+
+    -   Total number of **men vs. women** in the organization.
+    -   Breakdown of hiring trends by gender (**% of hires men vs. % of hires women**).
+2.  **Employee Turnover & Retention**
+
+    -   **Total leavers:** Identifies the number of employees who left the company.
+    -   **% Turnover:** Measures employee turnover rate and highlights patterns.
+    -   Insights into whether turnover rates vary by gender.
+3.  **Promotion & Career Growth Analysis**
+
+    -   **% of employees promoted (FY21):** Tracks career progression across the organization.
+    -   **% of women promoted:** Evaluates gender equity in promotions.
+    -   Comparison of promotion rates for men vs. women to ensure fairness.
+4.  **Employee Performance Analysis**
+
+    -   **Average performance rating (men vs. women):** Assesses whether there are performance rating disparities.
+    -   Helps identify trends in how performance ratings impact promotions and retention.
+
+![image](https://github.com/user-attachments/assets/1d2a790d-cb18-4b19-84c0-c6bb056b9b4c)
