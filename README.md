@@ -1,4 +1,4 @@
-# PWC-Power-BI-Job-Simulation
+# PWC Power BI Job Simulation
 
 ## 1. Call Center Trends
 
